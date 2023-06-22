@@ -15,5 +15,5 @@ Apresenta um menu que possui as funções de um CRUD (Create, Read, Update, Dele
 
 Porque o projeto é útil ?
 -
-Facilita a vida do usúario, possibilitando utilziar apenas a aplicação para todas as funções desejadas, evitando a utilização de planilhas.
+Facilita a vida do usúario, possibilitando utilizar apenas a aplicação para todas as funções desejadas, evitando a utilização de planilhas.
 
