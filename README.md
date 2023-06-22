@@ -16,6 +16,12 @@ It makes life easier for the user, allowing the use of just one application for 
 
 
 
+Screenshots
+-
+![Screenshot of CRUD.](https://github.com/Cesar-Verga/CRUD_de_Vendas/blob/main/README-GIF/Record_2023_06_22_17_52_13_285.gif)
+
+
+
 -------
 
 
